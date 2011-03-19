@@ -1,0 +1,3 @@
+This is the source code for this blog post: http://janxspirit.blogspot.com/2011/01/sneaking-scala-through-alley-test-java.html
+
+It's an extremely simple Java/Jersey REST web service and some simple tests written in Scala. The main goal is to illustrate the setup of a hybrid Java/Scala environment.
